@@ -1,0 +1,15 @@
+.mobile {
+  width: 50% !important;
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  -webkit-box-shadow: 1px 13px 42px -19px rgba(0, 0, 0, 0.32);
+  -moz-box-shadow: 1px 13px 42px -19px rgba(0, 0, 0, 0.32);
+  box-shadow: 1px 13px 42px -19px rgba(0, 0, 0, 0.32);
+}
+
+.mockup {
+  -webkit-box-shadow: 1px 13px 42px -19px rgba(0, 0, 0, 0.32);
+  -moz-box-shadow: 1px 13px 42px -19px rgba(0, 0, 0, 0.32);
+  box-shadow: 1px 13px 42px -19px rgba(0, 0, 0, 0.32);
+}
