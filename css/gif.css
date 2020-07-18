@@ -1,0 +1,75 @@
+#tpwarsGif {
+  margin: 0 auto;
+  display: block;
+  position: relative;
+}
+
+.titleWithIcon {
+  margin: 0 auto;
+  padding: 20px 20px;
+  display: block;
+  position: relative;
+  text-align: center;
+}
+
+#experience {
+  padding: 50px 0px 100px 0px;
+  position: relative;
+  margin: 0 auto;
+  width: 70%;
+}
+
+#experience img {
+  width: 100%;
+}
+
+main {
+  width: 100%;
+}
+
+#original,
+#changed {
+  display: inline-block;
+  position: relative;
+  width: 45%;
+  vertical-align: top;
+}
+
+h3 {
+  color: #c02e64;
+  text-transform: uppercase;
+}
+
+p {
+  line-height: 30px;
+  text-align: justify;
+}
+
+h2 {
+  color: #c02e64;
+  text-transform: uppercase;
+  font-size: 22px;
+  text-align: center;
+}
+
+h2.left {
+  text-align: left;
+}
+
+h2.mainTitle {
+  color: #003a51;
+}
+
+.extraInfo {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.extraInfo p,
+.extraInfo h3 {
+  text-align: center;
+}
+
+.btn {
+  margin: 30px auto;
+}
